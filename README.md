@@ -1,6 +1,7 @@
 # CUSTOMER-SEGMENTATION-USING-KMEANS-CLUSTERING
 
-##Project Overview
+Project Overview
+
 This project applies K-Means clustering to segment customers based on purchasing behavior. The goal is to identify distinct customer groups that can be targeted with tailored marketing strategies. The objective is to identify distinct customer groups that can be used to inform targeted marketing strategies, improve customer engagement, and optimize business decision-making.
 
 Customer segmentation is an unsupervised learning problem, and K-Means clustering was chosen due to its effectiveness in identifying patterns within numerical data.
